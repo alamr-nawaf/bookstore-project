@@ -32,7 +32,7 @@
 ## (FAQ):
 - **المشرف تم اضافته من قاعدة البيانات مباشرة**
 
-![login](store/assets/images/login.png)
-![Home](store/assets/images/home.png)
-![admin tools](Store/assets/images/admin.png)
-![cart](Store/assets/images/cart.png)
+![login](Store/assets/images/login.PNG)
+![Home](Store/assets/images/home.PNG)
+![admin tools](Store/assets/images/admin.PNG)
+![cart](Store/assets/images/cart.PNG)
