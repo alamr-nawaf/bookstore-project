@@ -1,7 +1,7 @@
 # Bookstore Project
 
 
-This is an online bookstore project that allows users to browse books, search for them, filter them by category, and read summaries of each book. Users can also add books to their shopping cart and proceed with the purchase process. The site includes an admin dashboard that allows administrators to manage the catalog, including adding, editing, and deleting books, all in arabic.
+This is an online bookstore created as part of a university project that allows users to browse books, search for them, filter them by category, and read summaries of each book. Users can also add books to their shopping cart and proceed with the purchase process. The site includes an admin dashboard that allows administrators to manage the catalog, including adding, editing, and deleting books, all in arabic.
 
 ## Features:
 - **Account Management:** Users can create a new account or log in.
