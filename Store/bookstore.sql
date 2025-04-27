@@ -9,7 +9,7 @@ CREATE TABLE users (
 );
 --هذا مشرف
 INSERT INTO users (name, email, password, is_admin) 
-VALUES ('sultan', 'admin@store.com', MD5('11223344'), 0);
+VALUES ('nawaf', 'admin@store.com', MD5('11223344'), 1);
 
 -- جدول الكتب
 CREATE TABLE books (
