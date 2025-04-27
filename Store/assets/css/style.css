@@ -1,0 +1,93 @@
+/* الخط العام */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fdf6f0;
+    color: #4e342e;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    text-align: right;
+}
+
+/* العناوين */
+h1, h2, h3, h4 {
+    text-align: right;
+    color: #5d4037;
+    margin: 20px;
+}
+
+/* الحاوية العامة */
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* النموذج */
+form {
+    background-color: #fff8f0;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(80, 50, 20, 0.1);
+}
+
+/* الحقول */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #d7ccc8;
+}
+
+/* الأزرار */
+button, input[type="submit"] {
+    background-color: #a1887f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #8d6e63;
+}
+
+/* كروت العناصر */
+.card {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+img {
+    max-width: 100px;
+    display: block;
+    margin-top: 10px;
+}
+
+a {
+    color: #6d4c41;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.text-center {
+    text-align: center;
+}
