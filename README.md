@@ -31,3 +31,9 @@ This is an online bookstore project that allows users to browse books, search fo
 
 ## FAQ:
 - **The admin is added directly from the database.**
+
+##
+![login](Store/assets/images/login.PNG)
+![Home](Store/assets/images/home.PNG)
+![admin tools](Store/assets/images/admin.PNG)
+![cart](Store/assets/images/cart.PNG)
